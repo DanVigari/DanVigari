@@ -4,7 +4,7 @@
 Estudante de Técnico em Desenvolvimento de Sistemas, apaixonado por tecnologia 
 e sempre em busca de aprender algo novo. Atualmente focado em lógica de programação.
 
-- 🔭 Atualmente estudando: Desenvolvimento de Sistemas
+- 🔭 Atualmente estudando: Técnico em Desenvolvimento de Sistemas
 - 🌱 Aprendendo: Python
 - 👯 Aberto a colaborar em: projetos open source
 - 📫 Contato: danilo.vigari18@gmail.com
